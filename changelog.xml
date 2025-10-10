@@ -3,34 +3,19 @@
   <Version number="1.0.1" date="2025-10-10">
     <YeniOzellikler>
       <Item>Otomatik güncelleme sistemi eklendi</Item>
-      <Item>GitHub entegrasyonu ile sürüm kontrolü</Item>
-      <Item>Yeni modern arayüz tasarımı</Item>
-      <Item>Dinamik macro sistemi geliştirildi</Item>
-      <Item>LED kontrol sistemi eklendi</Item>
+      <Item>Sohbete yazmama özelliği eklendi</Item>
     </YeniOzellikler>
     
     <Iyilestirmeler>
-      <Item>%40 daha hızlı başlangıç süresi</Item>
-      <Item>Bellek kullanımı %30 azaltıldı</Item>
-      <Item>Macro oynatma performansı optimize edildi</Item>
-      <Item>Kullanıcı arayüzü daha akıcı hale getirildi</Item>
-      <Item>HP/MP algılama hassasiyeti artırıldı</Item>
+      <Item>Zamanlamalar iyileştirildi</Item>
     </Iyilestirmeler>
     
     <HataDuzeltmeleri>
-      <Item>Rastgele çökme sorunu giderildi</Item>
-      <Item>Macro kaydetme hatası düzeltildi</Item>
-      <Item>Pedal bağlantı kopması problemi çözüldü</Item>
-      <Item>Görüntüleme sorunları düzeltildi</Item>
-      <Item>Bellek sızıntısı giderildi</Item>
+     
     </HataDuzeltmeleri>
     
     <OnemliNotlar>
-      <Item>Bu sürüm için yeniden başlatma gereklidir</Item>
-      <Item>Tüm ayarlarınız otomatik olarak korunacaktır</Item>
-      <Item>Windows 10 veya üzeri işletim sistemi gereklidir</Item>
-      <Item>.NET Framework 4.7.2 veya üzeri yüklü olmalıdır</Item>
-      <Item>7-Zip yüklü değilse otomatik güncelleme için gereklidir</Item>
+    
     </OnemliNotlar>
   </Version>
 </Changelog>
