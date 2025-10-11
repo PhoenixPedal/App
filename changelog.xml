@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Changelog>
+    <Version>1.1.1</Version>
+    <ReleaseDate>2025-01-15</ReleaseDate>
+    
+    <Application>
+        <Features>
+            <Item>Otomatik Update sistemi aktif edildi.</Item>
+        </Features>
+        
+        <BugFixes>
+            <Item>Uyku modunun bilgisayarı kapatıp açınca kaldığı yerden çalışmaması sorunu giderildi.</Item>
+            <Item>Sohbet modu bazı tuşları silme sorunu daha iyi hale getirildi.</Item>
+        </BugFixes>
+        
+        <Performance>
+            <Item>Zamanlamalar iyileştirildi.</Item>
+            <Item>Cihaz çalışma hızı 600 mhz olarak değiştirildi.</Item>
+        </Performance>
+    </Application>
+    
+    <Pedal>
+        <Performance>
+            <Item>Bir Takım performans iyileştirmeleri yapıldı.</Item>
+        </Performance>
+    </Pedal>
+</Changelog>
