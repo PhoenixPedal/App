@@ -20,7 +20,7 @@
         
         <VirusTotalLinks>
             <Link name="Phoenix Pedal Uygulama" url="https://www.virustotal.com/gui/file/1368ed87ce51220e6a2342ae886733303647a5395ae1d1b1c070810dc9545dd9"/>
-            <Link name="Phoenix Update Aracı" url="https://www.virustotal.com/gui/file/HASH2"/>
+            <Link name="Phoenix Update Aracı" url="https://www.virustotal.com/gui/file/cad113ae3be34814d47aedc2e4da61be667d923328786f20d36550bab0ae1208"/>
         </VirusTotalLinks>
     </Application>
     
@@ -30,7 +30,7 @@
         </Performance>
         
         <VirusTotalLinks>
-            <Link name="Pedal Firmware" url="https://www.virustotal.com/gui/file/HASH3"/>
+            <Link name="Pedal Firmware" url="https://www.virustotal.com/gui/file/4f0e6d816a4f017229e44d7e1473ead7f6619357d11618c3b5d230b48a8452b2"/>
         </VirusTotalLinks>
     </Pedal>
 </Changelog>
