@@ -17,11 +17,20 @@
             <Item>Zamanlamalar iyileştirildi.</Item>
             <Item>Cihaz çalışma hızı 600 mhz olarak değiştirildi.</Item>
         </Performance>
+        
+        <VirusTotalLinks>
+            <Link name="Phoenix Pedal Uygulama" url="https://www.virustotal.com/gui/file/HASH1"/>
+            <Link name="Phoenix Update Aracı" url="https://www.virustotal.com/gui/file/HASH2"/>
+        </VirusTotalLinks>
     </Application>
     
     <Pedal>
         <Performance>
             <Item>Bir Takım performans iyileştirmeleri yapıldı.</Item>
         </Performance>
+        
+        <VirusTotalLinks>
+            <Link name="Pedal Firmware" url="https://www.virustotal.com/gui/file/HASH3"/>
+        </VirusTotalLinks>
     </Pedal>
 </Changelog>
